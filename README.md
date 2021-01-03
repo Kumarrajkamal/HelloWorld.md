@@ -1,2 +1,2 @@
-# HelloWorld.md
+# HelloWorld
 This is a markdown file
